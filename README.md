@@ -1088,7 +1088,8 @@ export default {
 };
 ```
 
-> You only have to specify the file extensions you actually use.
+> :warning: You only have to specify the file extensions you actually use.
+
 > Alternatively you can add a `windi.config.js` instead of supplying the config object to `WindiCSS`.
 
 3. Add WindiCSS to your `pages/_default/_default.page.client.*`
